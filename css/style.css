@@ -4,13 +4,37 @@ ul,ol,.recipes,p{
     color: black;
     background-color: beige;
     margin: auto;
+    /* text-align: center; */
+    display: block;
+    padding: 30px;
+    margin: 0 400px ;
+}
+
+.recipes{
     text-align: center;
-    display:block;
+    margin: 0 700px ;
+}
+img{
+    height:225px;
+    width: 225px;
+}
+
+.shadow{
+    box-sizing: border-box;
+    background-color: #00000030;
+    height:225px;
+    width: 225px;
+    border: 225px;
+    margin-left: 875px;
+    margin-top: -195px;
+    align-content: center;
+    border-color: #00000030;
 }
 
 
 h1,h2{
     background-color: blanchedalmond;
+    margin: 30px 700px;
 }
 
 body{
