@@ -1,0 +1,23 @@
+ul,ol,.recipes,p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    background-color: beige;
+    margin: auto;
+    text-align: center;
+    display:block;
+}
+
+
+h1,h2{
+    background-color: blanchedalmond;
+}
+
+body{
+    background : grey;
+}
+
+h1,h2,div{
+    text-align: center;
+    align-items: center;
+}
