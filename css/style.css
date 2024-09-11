@@ -4,7 +4,6 @@ ul,ol,.recipes,p{
     color: black;
     width : auto;
     background-color: beige;
-    /* text-align: center; */
     display: block;
     padding: 30px;
     margin : 0 400px;
@@ -46,10 +45,11 @@ h1,h2,div{
     align-items: center;
 }
 
-.recipes li{
+.card li{
     
     display: inline-block;
 }
+
 .recipe{
     border: 5px thin greenyellow;
     padding: 20px;
