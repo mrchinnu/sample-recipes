@@ -1,6 +1,6 @@
 ul,ol,.recipes,p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: medium;
     color: black;
     width : auto;
     background-color: beige;
@@ -18,7 +18,7 @@ img{
     width: 225px;
 }
 
-.shadow{
+/* .shadow{
     box-sizing: border-box;
     background-color: #00000030;
     height:225px;
@@ -28,12 +28,12 @@ img{
     margin-top: -195px;
     align-content: center;
     border-color: #00000030;
-}
+} */
 
 
 h1,h2{
     background-color: blanchedalmond;
-    margin: 30px 700px;
+    margin: 30px 600px;
 }
 
 body{
@@ -54,9 +54,10 @@ h1,h2,div{
     border: 5px thin greenyellow;
     padding: 20px;
     box-sizing: border-box;
-    margin: 50px 150px;
+    margin: 30px 100px;
     background-color: greenyellow;
 }
+
 a{
     display: block;
 }
